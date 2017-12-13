@@ -1,0 +1,98 @@
+﻿#zergnet-widget-44553 {
+    zoom:1 !important;
+    z-index:9999 !important;
+    margin-left:0 !important;
+}
+
+
+/* bottom anchor */
+.ad-wrap {
+    background-color: #fff;
+    padding: 10px;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    z-index: 999;
+    height:360px;
+    /*background: radial-gradient(#3C4B5A, #28323c);*/
+}
+
+.ad-wrap iframe {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+    
+.ad-wrap .close-btn{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: -10px;
+    right: 17px;
+    background-color: white;
+    color: #384653;
+    font-family: roboto;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    font-weight: 600;
+    font-size: 30px;
+}
+    
+.hb-a{
+    text-decoration: none;
+}
+    
+.logo {
+    color: #fbb400;
+    padding-right: 5px;
+}
+    
+.hb-h2 {
+    margin: 0;
+    font-family: roboto;
+    font-weight: 400;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 30px;
+    border: 0;
+    margin-top: 0;
+    padding-top: 0;
+}
+    
+.hb-h3 {
+    font-family: roboto;
+    text-transform: uppercase;
+    color: white;
+    font-size: 18px;
+    text-shadow: 1px 1px 1px black;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+}
+.subtext{
+    color: #fbb400;
+    font-family: roboto;
+    text-shadow: 1px 1px 1px black;
+    font-size: 18px;
+}
+    
+.ad-button{
+    position: absolute;
+    right: 4%;
+    color: white;
+    text-transform: uppercase;
+    top: 0;
+    font-family: roboto;
+    font-size: 19px;
+    height: 35px;
+    border-radius: 2px;
+    line-height: 35px;
+    text-shadow: 1px 1px 20px #272113;
+    bottom: 0;
+    margin: auto;
+    width: 100px;
+    background-color: #fbb400;
+    text-align: center;
+    box-shadow: 4px 5px 1px black;
+}
+/* bottom anchor */

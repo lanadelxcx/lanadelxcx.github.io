@@ -1,0 +1,151 @@
+.bg-light {
+    color: white;
+}
+
+.logo {
+    margin-right: 25px;
+    margin-left: 20px;
+}
+
+a {
+    font: 12px 'pack8-c', Helvetica, Arial, Sans-Serif;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.nav-item {
+    margin-right: 25px;
+}
+
+.nav-item > a:hover {
+    color: #FFF !important;
+}
+
+.primeiro {
+    display: none;
+}
+
+.segundo {
+    display: none;
+}
+
+.terceiro {
+    display: none;
+}
+
+.quarto {
+    display: none;
+}
+
+.laion {
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 100px;
+    float: left;
+}
+
+#laion {
+    height: 400px;
+    width: 1235px;
+    display: none;
+}
+
+#pa {
+    width: 800px; 
+    float: left;
+    margin-top: 100px;
+    margin-left: 35px;
+    font: 14px 'pack8-c', Helvetica, Arial, Sans-Serif;
+    line-height: 24px;
+    color: #8f908e; 
+}
+
+#carouselExampleIndicators1 {
+    width: 800px;
+    height: 800px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+body {
+    background-color: #DCDCDC;
+}
+
+
+/* Create four equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 25%;
+    padding: 10px;
+}
+
+.column img {
+    margin-top: 12px;
+    width: 100%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media (max-width: 800px) {
+    .column {
+        width: 50%;
+    }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+    .column {
+        width: 100%;
+   }
+}
+
+.fade
+{
+        opacity:0.5;
+}
+.fade:hover
+{
+        opacity:1;
+}
+
+.modal-content{
+  width: 635px;
+}
+
+#modal-body {
+  width: 100%;
+}
+
+.modal-content1{
+  width: 2000px;
+  height: 1000px;
+}
+
+#modal-body1 {
+  width: 100%;
+}
+
+.conteudo {
+    width: 893px;
+
+}
+
+.conteudo1 {
+    width: 2000px;
+}
+
+.modal-dialog {
+    margin: 0 auto;
+}
